@@ -1,0 +1,1445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 240,
+        "ESCOLA": "ESCOLA MUNICIPAL FRANCISCO EDILSON PINHEIRO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.60302,
+        "lat": -3.71847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.60302,
+          -3.71847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 241,
+        "ESCOLA": "ESCOLA MUNICIPAL MARIA ROSELI LIMA MESQUITA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.5739,
+        "lat": -3.71718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5739,
+          -3.71718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 276,
+        "ESCOLA": "ESCOLA MUNICIPAL FRANCISCO DOMINGOS DA SILVA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57455,
+        "lat": -3.70681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57455,
+          -3.70681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 310,
+        "ESCOLA": "ESCOLA MUNICIPAL DOM ANTONIO BATISTA DE FRAGOSO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58948,
+        "lat": -3.70466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58948,
+          -3.70466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 499,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL TERTULIANO CAMBRAIA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.5545,
+        "lat": -3.71338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5545,
+          -3.71338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 154,
+        "ESCOLA": "ESCOLA MUNICIPAL QUINTINO CUNHA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59186,
+        "lat": -3.72465
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59186,
+          -3.72465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 162,
+        "ESCOLA": "ESCOLA MUNICIPAL MOURA BRASIL",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.53515,
+        "lat": -3.7185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53515,
+          -3.7185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 371,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL MOURA BRASIL",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.53512,
+        "lat": -3.71966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53512,
+          -3.71966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 398,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL SAO RAFAEL",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.51552,
+        "lat": -3.71962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51552,
+          -3.71962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 400,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL AGOSTINHO MOREIRA E SILVA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.5856,
+        "lat": -3.70071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5856,
+          -3.70071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 547,
+        "ESCOLA": "CRECHE OLHAR DO SABER - VO FRANCY",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.60457,
+        "lat": -3.72021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.60457,
+          -3.72021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 829,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL MARISTELA DA FROTA CAVALCANTE",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.60055,
+        "lat": -3.71355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.60055,
+          -3.71355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 1123,
+        "ESCOLA": "CRECHE UNIVERSO INFANTIL",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59217,
+        "lat": -3.72001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59217,
+          -3.72001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 233,
+        "ESCOLA": "ESCOLA MUNICIPAL ALDEIDES REGIS",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56941,
+        "lat": -3.7113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56941,
+          -3.7113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 235,
+        "ESCOLA": "ESCOLA MUNICIPAL SAO CURA DARS",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.55951,
+        "lat": -3.70617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.55951,
+          -3.70617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 427,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL CASIMIRO JOSE DE LIMA FILHO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58229,
+        "lat": -3.70954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58229,
+          -3.70954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 106,
+        "ESCOLA": "ESCOLA MUNICIPAL SEBASTIANA ALDIGUERI",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56319,
+        "lat": -3.70797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56319,
+          -3.70797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 399,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL DOIS DE DEZEMBRO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58081,
+        "lat": -3.70908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58081,
+          -3.70908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 581,
+        "ESCOLA": "ESCOLA MUNICIPAL 11 DE AGOSTO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.583391,
+        "lat": -3.729386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.583391,
+          -3.729386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 451,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL ALDEIDES REGIS",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56749,
+        "lat": -3.71085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56749,
+          -3.71085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 209,
+        "ESCOLA": "ESCOLA MUNICIPAL VIRGILIO TAVORA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56402,
+        "lat": -3.70543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56402,
+          -3.70543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 289,
+        "ESCOLA": "ESCOLA MUNICIPAL RACHEL DE QUEIROZ",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57649,
+        "lat": -3.70494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57649,
+          -3.70494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 300,
+        "ESCOLA": "ESCOLA MUNICIPAL DE TEMPO INTEGRAL ALDEMIR MARTINS",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58531,
+        "lat": -3.70648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58531,
+          -3.70648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 188,
+        "ESCOLA": "ESCOLA MUNICIPAL HILBERTO SILVA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.55556,
+        "lat": -3.71214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.55556,
+          -3.71214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 482,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL MARIA ROSELI LIMA MESQUITA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57018,
+        "lat": -3.72311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57018,
+          -3.72311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 153,
+        "ESCOLA": "ESCOLA MUNICIPAL FRANCISCO SILVA CAVALCANTE",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57975,
+        "lat": -3.71858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57975,
+          -3.71858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 840,
+        "ESCOLA": "CRECHE VOVO TONICO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57152,
+        "lat": -3.71426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57152,
+          -3.71426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 986,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL MARIA AGLAE GONÇALVES MONTEIRO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58503,
+        "lat": -3.70595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58503,
+          -3.70595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 226,
+        "ESCOLA": "ESCOLA MUNICIPAL ANTONIO CORREIA LIMA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59207,
+        "lat": -3.71263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59207,
+          -3.71263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 232,
+        "ESCOLA": "ESCOLA MUNICIPAL AGOSTINHO MOREIRA E SILVA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58579,
+        "lat": -3.7005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58579,
+          -3.7005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 284,
+        "ESCOLA": "ESCOLA MUNICIPAL JADER DE FIGUEIREDO CORREIA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58979,
+        "lat": -3.7058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58979,
+          -3.7058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 311,
+        "ESCOLA": "ESCOLA MUNICIPAL ANTONIO MENDES",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56992,
+        "lat": -3.70869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56992,
+          -3.70869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 199,
+        "ESCOLA": "ESCOLA MUNICIPAL LORHAN MARQUES MEDEIROS",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59136,
+        "lat": -3.72161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59136,
+          -3.72161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 481,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL SECRETARIO PAULO PETROLA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.54702,
+        "lat": -3.71899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54702,
+          -3.71899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 99,
+        "ESCOLA": "ESCOLA MUNICIPAL SECRETARIO PAULO PETROLA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.54455,
+        "lat": -3.72473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54455,
+          -3.72473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 130,
+        "ESCOLA": "ESCOLA MUNICIPAL JESUS CRISTO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58339,
+        "lat": -3.72191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58339,
+          -3.72191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 331,
+        "ESCOLA": "ESCOLA MUNICIPAL PROFESSOR JOSE REBOUCAS MACAMBIRA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59076,
+        "lat": -3.72221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59076,
+          -3.72221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 334,
+        "ESCOLA": "ESCOLA MUNICIPAL HERONDINA LIMA CAVALCANTE",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59808,
+        "lat": -3.71594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59808,
+          -3.71594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 353,
+        "ESCOLA": "ESCOLA MUNICIPAL CASIMIRO JOSE DE LIMA FILHO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58204,
+        "lat": -3.70939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58204,
+          -3.70939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 987,
+        "ESCOLA": "ESCOLA MUNICIPAL DE TEMPO INTEGRAL DEPUTADO ROBERTO MESQUITA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.60077,
+        "lat": -3.71398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.60077,
+          -3.71398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 841,
+        "ESCOLA": "CRECHE VOVO IOLETE",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56642,
+        "lat": -3.7067
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56642,
+          -3.7067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 852,
+        "ESCOLA": "CRECHE CONSTRUINDO O FUTURO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.5855,
+        "lat": -3.71811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5855,
+          -3.71811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 225,
+        "ESCOLA": "ESCOLA MUNICIPAL JOSE DE ALENCAR",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58338,
+        "lat": -3.71974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58338,
+          -3.71974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 239,
+        "ESCOLA": "ESCOLA MUNICIPAL PATATIVA DO ASSARE",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56756,
+        "lat": -3.7113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56756,
+          -3.7113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 282,
+        "ESCOLA": "ESCOLA MUNICIPAL NOSSA SENHORA APARECIDA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.53537,
+        "lat": -3.72161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53537,
+          -3.72161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 145,
+        "ESCOLA": "ESCOLA MUNICIPAL MARIA DALVA SEVERINO MARREIRO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58439,
+        "lat": -3.72536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58439,
+          -3.72536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 441,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL DOM HELDER CAMARA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57299,
+        "lat": -3.72536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57299,
+          -3.72536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 456,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL MARIA MARIZA MENDES DE CARVALHO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.6063,
+        "lat": -3.72001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6063,
+          -3.72001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 806,
+        "ESCOLA": "PROGRAMA INTEGRAÇÃO CUCA BARRA DO CEARA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.587655,
+        "lat": -3.700601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.587655,
+          -3.700601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 387,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL MARIO QUINTANA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.60009,
+        "lat": -3.71137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.60009,
+          -3.71137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 139,
+        "ESCOLA": "ESCOLA MUNICIPAL DE TEMPO INTEGRAL NOSSA SENHORA DE FATIMA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57229,
+        "lat": -3.72042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57229,
+          -3.72042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 160,
+        "ESCOLA": "ESCOLA MUNICIPAL MARIA MARIZA MENDES DE CARVALHO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.606,
+        "lat": -3.71987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.606,
+          -3.71987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 532,
+        "ESCOLA": "CRECHE ARPOADOR",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57016,
+        "lat": -3.7034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57016,
+          -3.7034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 333,
+        "ESCOLA": "ESCOLA MUNICIPAL DOM HELDER CAMARA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57293,
+        "lat": -3.7257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57293,
+          -3.7257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 412,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL VIRGILIO TAVORA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56357,
+        "lat": -3.70541
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56357,
+          -3.70541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 788,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL VILA DO MAR",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58194,
+        "lat": -3.69499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58194,
+          -3.69499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 826,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL JOÃO MARÇAL MESQUITA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57286,
+        "lat": -3.72021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57286,
+          -3.72021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 953,
+        "ESCOLA": "PROGRAMA ESCOLA ARENINHA PIRAMBU",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.54512,
+        "lat": -3.71377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54512,
+          -3.71377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 1124,
+        "ESCOLA": "CRECHE TIA ARLETE",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57103,
+        "lat": -3.71604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57103,
+          -3.71604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 1149,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL MARIA DALVA DOS SANTOS",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.54573,
+        "lat": -3.71323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54573,
+          -3.71323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 234,
+        "ESCOLA": "ESCOLA MUNICIPAL DOIS DE DEZEMBRO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58041,
+        "lat": -3.70917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58041,
+          -3.70917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 255,
+        "ESCOLA": "ESCOLA MUNICIPAL SANTA TEREZA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56346,
+        "lat": -3.70611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56346,
+          -3.70611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 292,
+        "ESCOLA": "ESCOLA MUNICIPAL TERTULIANO CAMBRAIA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.55504,
+        "lat": -3.71308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.55504,
+          -3.71308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 201,
+        "ESCOLA": "ESCOLA MUNICIPAL REITOR PEDRO TEIXEIRA BARROSO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58384,
+        "lat": -3.70821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58384,
+          -3.70821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 444,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL PROFESSOR JOSE REBOUCAS MACAMBIRA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59145,
+        "lat": -3.72198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59145,
+          -3.72198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 500,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL RACHEL DE QUEIROZ",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57063,
+        "lat": -3.70655
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57063,
+          -3.70655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 137,
+        "ESCOLA": "ESCOLA MUNICIPAL MANOEL RODRIGUES",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.59145,
+        "lat": -3.72473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.59145,
+          -3.72473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 959,
+        "ESCOLA": "PROGRAMA ESCOLA ARENINHA BARRA DO CEARÁ",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58437,
+        "lat": -3.69987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58437,
+          -3.69987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 1301,
+        "ESCOLA": "CRECHE SANTO ANTONIO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.57258,
+        "lat": -3.720958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.57258,
+          -3.720958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 238,
+        "ESCOLA": "ESCOLA MUNICIPAL SAO RAFAEL",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.51779,
+        "lat": -3.71933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.51779,
+          -3.71933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 256,
+        "ESCOLA": "ESCOLA MUNICIPAL PROFESSOR JOSE PARSIFAL BARROSO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58869,
+        "lat": -3.7233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58869,
+          -3.7233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 291,
+        "ESCOLA": "ESCOLA MUNICIPAL NOSSA SENHORA DO PERPETUO SOCORRO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56168,
+        "lat": -3.71673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56168,
+          -3.71673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 429,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL JESUS CRISTO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.58344,
+        "lat": -3.72224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.58344,
+          -3.72224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 647,
+        "ESCOLA": "CRECHE ANJOS DE DEUS",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.56869,
+        "lat": -3.70449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.56869,
+          -3.70449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 503,
+        "ESCOLA": "CENTRO DE EDUCACAO INFANTIL NOSSA SENHORA APARECIDA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.53533,
+        "lat": -3.72146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.53533,
+          -3.72146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 81,
+        "ESCOLA": "ESCOLA MUNICIPAL ALBA FROTA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.52263,
+        "lat": -3.73198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.52263,
+          -3.73198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 107,
+        "ESCOLA": "ESCOLA MUNICIPAL CRISTO REDENTOR",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.55859,
+        "lat": -3.70918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.55859,
+          -3.70918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 125,
+        "ESCOLA": "ESCOLA MUNICIPAL CASTELO DE CASTRO",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.60014,
+        "lat": -3.71802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.60014,
+          -3.71802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 533,
+        "ESCOLA": "CRECHE AMADEU BARROS LEAL",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.54241,
+        "lat": -3.72398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.54241,
+          -3.72398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CI_UNIDADE_TRABALHO": 351,
+        "ESCOLA": "ESCOLA MUNICIPAL RAIMUNDO DE SOUSA MANGUEIRA",
+        "DIST": "DIST1",
+        "DISTRITO": "DISTRITO 1",
+        "lon": -38.5835,
+        "lat": -3.72286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5835,
+          -3.72286
+        ]
+      }
+    }
+  ]
+}
